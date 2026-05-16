@@ -33,7 +33,14 @@ I am a 3rd-year **AI & Data Science student at ENSIA** (2023–2028). I speciali
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=30&color=800020&lines=Selected+Works" width="280" />
 
-### 🏆 Accomplished
+### Accomplished
+
+<h4 style="color:#800020;">✦ Appliance Power Consumption — Time Series Classification</h4>
+
+*End-to-end time series classification pipeline for 10 home appliance categories from raw power signals. Combined **ROCKET/MiniRocket convolutional features**, **DTW-KNN meta-features**, **Catch22**, and handcrafted signal statistics in a leak-free OOF stacking architecture with Optuna-tuned Random Forest. Achieved **88% accuracy on the test set** (81% OOF) — top performance in the class competition.*  
+`Python` • `Scikit-learn` • `LightGBM` • `XGBoost` • `ROCKET` • `Optuna` • `Time Series` • `Kaggle`
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
 
 <h4 style="color:#800020;">✦ AI Job Matching | Group Project</h4>
 
@@ -46,6 +53,13 @@ I am a 3rd-year **AI & Data Science student at ENSIA** (2023–2028). I speciali
 
 *In-depth statistical study on mental health trends in Hungary using **Time Series Analysis**. Focused on intensive **Data Collecting** and predictive analysis to explore how country-level changes impact mental health indicators.*  
 `R` • `Statistical Modeling` • `Data Science` • `Time Series`
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
+
+<h4 style="color:#800020;">✦ URL SandBox | Group Project</h4>
+
+*A forensics tool for analyzing malicious URL behavior and providing evidence-based reports. Built using **Docker** for containment and **Python** for behavioral analysis.*  
+`Docker` • `Python` • `Group Project` • `Forensics`
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
 
@@ -70,14 +84,7 @@ I am a 3rd-year **AI & Data Science student at ENSIA** (2023–2028). I speciali
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
 
-### 🏗️ Under Development
-
-<h4 style="color:#800020;">✦ URL SandBox (90%) | Group Project</h4>
-
-*A forensics tool for analyzing malicious URL behavior and providing evidence-based reports. Built using **Docker** for containment and **Python** for behavioral analysis.*  
-`Docker` • `Python` • `Group Project` • `Forensics`
-
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
+### Under Development
 
 <h4 style="color:#800020;">✦ Research Matching Platform (80%) | Full-Stack Group Project</h4>
 
