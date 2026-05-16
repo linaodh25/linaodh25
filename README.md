@@ -37,80 +37,113 @@ I am a 3rd-year **AI & Data Science student at ENSIA** (2023–2028). I speciali
 
 <h4 style="color:#800020;">✦ Appliance Power Consumption — Time Series Classification</h4>
 
-*End-to-end time series classification pipeline for 10 home appliance categories from raw power signals. Combined **ROCKET/MiniRocket convolutional features**, **DTW-KNN meta-features**, **Catch22**, and handcrafted signal statistics in a leak-free OOF stacking architecture with Optuna-tuned Random Forest. Achieved **88% accuracy on the test set** (81% OOF) — top performance in the class competition.*  
-`Python` • `Scikit-learn` • `LightGBM` • `XGBoost` • `ROCKET` • `Optuna` • `Time Series` • `Kaggle`
+*End-to-end time series classification pipeline for 10 home appliance categories from raw power signals. Combined **ROCKET/MiniRocket convolutional features**, **DTW-KNN meta-features**, **Catch22**, and handcrafted signal statistics in a leak-free OOF stacking architecture with Optuna-tuned Random Forest. Achieved **88% accuracy on the test set** (81% OOF) — top performance in the class competition.*
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-4B8BBE?style=flat-square) ![XGBoost](https://img.shields.io/badge/XGBoost-2C3E50?style=flat-square) ![Optuna](https://img.shields.io/badge/Optuna-4B8BBE?style=flat-square) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
-<h4 style="color:#800020;">✦ AI Job Matching | Group Project</h4>
-
-*Designed an AI engine using **CSP (Constraint Satisfaction Problem) algorithms** and **backtracking search with forward checking**. This role emphasized **Team Communication** and large-scale **Data Collection** to optimize role-matching accuracy based on skills, experience, and preferences.*  
-`Python` • `CSP` • `Backtracking` • `Algorithmic Design` • `Communication` • `Data Collecting`
-
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
-
-<h4 style="color:#800020;">✦ TSA — Suicide Rate Analysis</h4>
-
-*In-depth statistical study on mental health trends in Hungary using **Time Series Analysis**. Focused on intensive **Data Collecting** and predictive analysis to explore how country-level changes impact mental health indicators.*  
-`R` • `Statistical Modeling` • `Data Science` • `Time Series`
+> [View Repository](https://github.com/linaodh25/appliance-classification) <!-- PASTE REPO LINK HERE -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
 
 <h4 style="color:#800020;">✦ URL SandBox | Group Project</h4>
 
-*A forensics tool for analyzing malicious URL behavior and providing evidence-based reports. Built using **Docker** for containment and **Python** for behavioral analysis.*  
-`Docker` • `Python` • `Group Project` • `Forensics`
+*A browser-based sandbox that detects malicious URLs by analyzing **JavaScript behavior**, **network requests**, and **threat intelligence APIs** to return a 0–100 risk score. Built using **Docker** for containment and **Python** for behavioral analysis.*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+> [View Repository](#) <!-- PASTE REPO LINK HERE -->
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
+
+<h4 style="color:#800020;">✦ Research Matching Platform | Full-Stack Group Project</h4>
+
+*Desktop application that connects researchers and students using **AI-enhanced matching algorithms**. Automates supervisor discovery at ENSIA via **API scraping** and intelligent recommendation, reducing the time students spend finding research supervisors.*
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![API Scraping](https://img.shields.io/badge/API_Scraping-00A86B?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+> [View Repository](#) <!-- PASTE REPO LINK HERE -->
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
+
+<h4 style="color:#800020;">✦ Storium | Full-Stack Group Project</h4>
+
+*Industry-standard inventory management system designed to help any entity effectively organise, track, and automate operations on their inventory. Built with a clean architecture separating business logic from UI.*
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+> [View Repository](#) <!-- PASTE REPO LINK HERE -->
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
+
+<h4 style="color:#800020;">✦ DayFlow | Productivity Mobile App</h4>
+
+*Modern productivity application designed to help users manage tasks, build positive habits, and track their progress. Built with **Flutter** and **Firebase**, offering a seamless cross-device experience with real-time synchronization.*
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+> [View Repository](#) <!-- PASTE REPO LINK HERE -->
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
+
+<h4 style="color:#800020;">✦ TSA — Appliance Classification | Group Project</h4>
+
+*Collaborative time series classification project. Contributed to **feature engineering**, **model benchmarking**, and **cross-validation protocol** design for power consumption signal analysis across 10 appliance categories.*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R_Language-276DC3?style=flat-square&logo=r&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+> [View Repository](#) <!-- PASTE REPO LINK HERE -->
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
+
+<h4 style="color:#800020;">✦ TSA — Suicide Rate Analysis</h4>
+
+*In-depth statistical study on mental health trends in Hungary using **Time Series Analysis**. Focused on intensive **Data Collecting** and predictive analysis to explore how country-level changes impact mental health indicators.*
+
+![R](https://img.shields.io/badge/R_Language-276DC3?style=flat-square&logo=r&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-388E8E?style=flat-square&logo=python&logoColor=white)
+
+> [View Repository](#) <!-- PASTE REPO LINK HERE -->
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
+
+<h4 style="color:#800020;">✦ AI Job Matching | Group Project</h4>
+
+*Designed an AI engine using **CSP (Constraint Satisfaction Problem) algorithms** and **backtracking search with forward checking** to optimize role-matching accuracy based on skills, experience, and preferences.*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+> [View Repository](#) <!-- PASTE REPO LINK HERE -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
 
 <h4 style="color:#800020;">✦ ROP Prediction | Academic Project</h4>
 
-*End-to-end machine learning project covering **data cleaning**, **feature engineering**, and prediction in the ROP domain.*  
-`Python` • `Scikit-learn` • `Pandas` • `XGBoost`
+*End-to-end machine learning project covering **data cleaning**, **feature engineering**, and prediction in the ROP domain.*
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-2C3E50?style=flat-square)
 
-<h4 style="color:#800020;">✦ Stirm | Full-Stack Group Project</h4>
-
-*Full-scale warehouse management software utilizing **PHP** and **SQL** for robust backend synchronization.*  
-`Full-Stack Architecture` • `PHP` • `SQL` • `Software Logic`
-
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
-
-<h4 style="color:#800020;">✦ Todo List App | Group Project</h4>
-
-*Cross-platform mobile application built with **Flutter** for task management.*  
-`Flutter` • `Dart` • `Mobile Development`
+> [View Repository](#) <!-- PASTE REPO LINK HERE -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
 
 ### Under Development
 
-<h4 style="color:#800020;">✦ Research Matching Platform (80%) | Full-Stack Group Project</h4>
-
-*AI platform connecting students seeking research supervisors with professors at ENSIA via automated **API scraping** and matching algorithms.*  
-`React` • `TypeScript` • `API Scraping` • `Full-Stack Development` • `Python`
-
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
-
 <h4 style="color:#800020;">✦ IntelliCanteen (50%) | ML-Powered System</h4>
 
-*Predictive modeling to forecast daily meal demand for university canteens and minimize resource waste. Focus on **ML algorithms** and **preprocessing**.*  
-`Scikit-learn` • `FastAPI` • `MLOps` • `ML Algorithms` • `Preprocessing`
+*Predictive modeling to forecast daily meal demand for university canteens and minimize resource waste.*
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+> [View Repository](#) <!-- PASTE REPO LINK HERE -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
 
 <h4 style="color:#800020;">✦ Full-Stack E-Commerce Platform (40%)</h4>
 
-*Complete online store with product management, shopping cart, user authentication, and payment integration.*  
-`React` • `Node.js` • `MongoDB` • `JavaScript`
+*Complete online store with product management, shopping cart, user authentication, and payment integration.*
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<h4 style="color:#800020;">✦ TSA Group Project | Collaborative</h4>
-
-*Collaborative time series analysis project using advanced statistical methods.*  
-`R` • `Time Series Analysis`
+> [View Repository](#) <!-- PASTE REPO LINK HERE -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
 
