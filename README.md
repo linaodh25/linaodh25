@@ -51,7 +51,7 @@ I am a 3rd-year **AI & Data Science student at ENSIA** (2023–2028). I speciali
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-> [View Repository](#) <!-- PASTE REPO LINK HERE -->
+> [View Repository](https://github.com/linaodh25/Malicious-URL-Detection-System-) <!-- PASTE REPO LINK HERE -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
 
@@ -61,7 +61,7 @@ I am a 3rd-year **AI & Data Science student at ENSIA** (2023–2028). I speciali
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![API Scraping](https://img.shields.io/badge/API_Scraping-00A86B?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-> [View Repository](#) <!-- PASTE REPO LINK HERE -->
+> [View Repository](https://github.com/linaodh25/research_collab_platform) <!-- PASTE REPO LINK HERE -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
 
@@ -71,7 +71,7 @@ I am a 3rd-year **AI & Data Science student at ENSIA** (2023–2028). I speciali
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-> [View Repository](#) <!-- PASTE REPO LINK HERE -->
+> [View Repository](https://github.com/linaodh25/Storium-SE-Project) <!-- PASTE REPO LINK HERE -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
 
@@ -81,7 +81,7 @@ I am a 3rd-year **AI & Data Science student at ENSIA** (2023–2028). I speciali
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-> [View Repository](#) <!-- PASTE REPO LINK HERE -->
+> [View Repository](https://github.com/linaodh25/DayFloww) <!-- PASTE REPO LINK HERE -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
 
@@ -91,7 +91,7 @@ I am a 3rd-year **AI & Data Science student at ENSIA** (2023–2028). I speciali
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R_Language-276DC3?style=flat-square&logo=r&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-> [View Repository](#) <!-- PASTE REPO LINK HERE -->
+> [View Repository](https://github.com/linaodh25/appliance-classification) <!-- PASTE REPO LINK HERE -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
 
@@ -101,7 +101,7 @@ I am a 3rd-year **AI & Data Science student at ENSIA** (2023–2028). I speciali
 
 ![R](https://img.shields.io/badge/R_Language-276DC3?style=flat-square&logo=r&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-388E8E?style=flat-square&logo=python&logoColor=white)
 
-> [View Repository](#) <!-- PASTE REPO LINK HERE -->
+> [View Repository](https://github.com/linaodh25/TSA-Suicide-Rate-Hungary) <!-- PASTE REPO LINK HERE -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
 
@@ -111,7 +111,6 @@ I am a 3rd-year **AI & Data Science student at ENSIA** (2023–2028). I speciali
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-> [View Repository](#) <!-- PASTE REPO LINK HERE -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
 
@@ -121,7 +120,6 @@ I am a 3rd-year **AI & Data Science student at ENSIA** (2023–2028). I speciali
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-2C3E50?style=flat-square)
 
-> [View Repository](#) <!-- PASTE REPO LINK HERE -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
 
@@ -133,7 +131,6 @@ I am a 3rd-year **AI & Data Science student at ENSIA** (2023–2028). I speciali
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-> [View Repository](#) <!-- PASTE REPO LINK HERE -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
 
@@ -143,7 +140,6 @@ I am a 3rd-year **AI & Data Science student at ENSIA** (2023–2028). I speciali
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-> [View Repository](#) <!-- PASTE REPO LINK HERE -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" /></p>
 
